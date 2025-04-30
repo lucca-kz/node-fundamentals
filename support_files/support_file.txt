@@ -1,0 +1,6 @@
+Estou aqui aprofundando meus conhecimentos em nodejs!
+
+{
+    data: 30042025,
+    tamanho: 15mb,
+}
